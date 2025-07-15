@@ -1,4 +1,6 @@
-streamlit
-tensorflow
-numpy
-nltk
+streamlit==1.46.1
+tensorflow==2.19.0
+numpy==1.26.0
+nltk==3.9.1
+scikit-learn==1.7.0
+pandas==2.1.2
